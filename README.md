@@ -152,5 +152,4 @@ The project is assessed based on:
 
 This assignment provides hands-on experience in handling both **checked** and **unchecked** exceptions in Java. It demonstrates the importance of exception handling in creating reliable and user-friendly applications.
 
-**Author**: [Your Name]  
-**Date**: December 2024
+
